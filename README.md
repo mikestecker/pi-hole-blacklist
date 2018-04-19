@@ -1,0 +1,1 @@
+Custom blacklist of sites to block from my kids using Pi-Hole
